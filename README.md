@@ -1,5 +1,11 @@
 # image-description-generator
-Image Description Generator (CNN + RNN)
+Image Description Generator (CNN + RNN) <br>
+
+Group members : <br>
+63011330 Tanapat Phadungwijitchai <br>
+63011343 Thanapat Jong-udomsub <br>
+63011354 Thepthipthong Chalakornsuprada <br>
+63011359 Thongchat Sangsuwan <br>
 
 Used datasets: <br>
 flickr8k : https://www.kaggle.com/datasets/adityajn105/flickr8k <br>
