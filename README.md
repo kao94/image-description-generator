@@ -1,5 +1,6 @@
 # image-description-generator
 Image Description Generator (CNN + RNN) <br>
+Deep Learning and Application (01416417) Final Project <br>
 
 Group members : <br>
 63011330 Tanapat Phadungwijitchai <br>
